@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773430229062",
+    "project_id": "music-94111",
+    "storage_bucket": "music-94111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773430229062:android:894e640ed99ff753ec7247",
+        "android_client_info": {
+          "package_name": "com.example.projet_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773430229062-sqkfpta1vcu8onqgbe9gv6n96vsojcms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCveMdX8k_XInpHGOZBCoumKd8s_o5Nbnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773430229062-sqkfpta1vcu8onqgbe9gv6n96vsojcms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773430229062-b6q6ut24l1de3lf2uvksp62l4b31aqev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
